@@ -42,9 +42,6 @@ a:focus {
   html {
     font-size: 90%;
   }
-  main {
-    margin: 0 5% auto;
-  }
 }
 @media (max-width: 812px) {
 
@@ -57,3 +54,8 @@ a:focus {
   }
 }
 
+@media (min-width: 996px) {
+  main {
+    margin: 0 25% auto;
+  }
+}
